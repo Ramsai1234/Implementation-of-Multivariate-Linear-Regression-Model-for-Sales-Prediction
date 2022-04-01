@@ -17,6 +17,7 @@ Declare X and Y variable with respect to the dataset.
 ## step4
 Predict the values.
 ## step5
+
 Using Mean Square Error find the required line that fits the data.
 ## step6
 Print the Mean Square Error and R square error.
