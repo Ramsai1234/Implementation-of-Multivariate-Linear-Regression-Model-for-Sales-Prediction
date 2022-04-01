@@ -8,10 +8,20 @@ To write a program to implement the multivariate linear regression model for sal
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+## step1
+Import the required libraries.
+## step2
+Read the csv file using pandas.
+## step3
+Declare X and Y variable with respect to the dataset.
+## step4
+Predict the values.
+## step5
+Using Mean Square Error find the required line that fits the data.
+## step6
+Print the Mean Square Error and R square error.
+## step7
+End the program. 
 
 ## Program:
 ```
